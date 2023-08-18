@@ -8,9 +8,9 @@
 # Streetcode
 
 This is a front-end part of our Streetcode project.
-Back-end part: https://github.com/ita-social-projects/StreetCode.git.
+Back-end part: https://github.com/ita-social-projects/Streetcode-Admin
 
-[![Build Status](https://img.shields.io/travis/ita-social-projects/StreetCode/master?style=flat-square)](https://travis-ci.org/github/ita-social-projects/StreetCode) [![Coverage Status](https://img.shields.io/gitlab/coverage/ita-social-projects/StreetCode/master?style=flat-square)](https://coveralls.io) [![Github Issues](https://img.shields.io/github/issues/ita-social-projects/StreetCode?style=flat-square)](https://github.com/ita-social-projects/StreetCode/issues) [![Pending Pull-Requests](https://img.shields.io/github/issues-pr/ita-social-projects/StreetCode?style=flat-square)](https://github.com/ita-social-projects/StreetCode/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+ [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ---
 
@@ -75,7 +75,7 @@ If you had this page already opened, just reload it.
 ---
 
 ## Documentation
-Learn more about our documentation <a href="https://github.com/ita-social-projects/StreetCode_Client/wiki" target="_blank">*here*</a>.
+Learn more about our documentation <a href="https://github.com/ita-social-projects/Streetcode-Admin/wiki" target="_blank">*here*</a>.
 
 ---
 
@@ -111,7 +111,7 @@ For example, `fix typo` or `increase rate limit`. Note: you don't need to commit
 
 #### Step 6
 
-- 🔃 Create a new pull request using <a href="https://github.com/ita-social-projects/StreetCode_Client/pulls" target="_blank">*this link*</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/ita-social-projects/streetcode-client_Admin-Full/pulls" target="_blank">*this link*</a>.
 
 #### Step 7
 
