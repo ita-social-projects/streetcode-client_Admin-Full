@@ -38,7 +38,7 @@ Back-end part: https://github.com/ita-social-projects/Streetcode-Admin
 ## Installation
 
 First of all, make sure you have installed dependencies below and back-end part of project from: 
-https://github.com/ita-social-projects/StreetCode.git.
+https://github.com/ita-social-projects/Streetcode-Admin
 
 ### Required to install
 * NodeJS (16.0.0) or higher
@@ -49,7 +49,7 @@ https://github.com/ita-social-projects/StreetCode.git.
 
 Clone this repo to your local machine using: 
 ```
-git clone https://github.com/ita-social-projects/StreetCode_Client.git
+git clone https://github.com/ita-social-projects/streetcode-client_Admin-Full
 ```
 
 ### Setup
